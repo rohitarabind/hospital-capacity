@@ -10,6 +10,7 @@ simpy = "*"
 pandas = "*"
 matplotlib = "*"
 jupyter = "*"
+names = "*"
 
 [requires]
 python_version = "3.7"
